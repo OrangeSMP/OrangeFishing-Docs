@@ -15,6 +15,6 @@
 - [Community Guardians](Community-Guardians.md)
 - [Seasonal Effects](Seasonal-Effects.md)
 - [Biome Disruption](Biome-Disruption.md)
-- [Coin Exchange](Coin-Exchange.md)
+- [Doubloon Exchange](Coin-Exchange.md)
 - [Trading Post](Trading-Post.md)
 - [Commands and Help](Commands-and-Help.md)

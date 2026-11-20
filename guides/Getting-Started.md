@@ -4,7 +4,7 @@
 
 ## Finding your way around
 
-The main **Fishing Menu** has six choices. **Fish & Storage** holds your catches, loot, withdrawals, sales and coin exchange. **Rod & Upgrades** holds rod management, augments, account upgrades, salvage, crafting materials and biome disruption. **Fish Guide** shows where and when to find species. **Quests & Events** holds daily goals, tournaments, rankings, and seasonal events. **Settings** controls sounds, messages and loot filters. **How to Fish** provides a short introduction.
+The main **Fishing Menu** has six choices. **Fish & Storage** holds your catches, loot, withdrawals, sales and doubloon exchange. **Rod & Upgrades** holds rod management, augments, account upgrades, salvage, crafting materials and biome disruption. **Fish Guide** shows where and when to find species. **Quests & Events** holds daily goals, tournaments, rankings, and seasonal events. **Settings** controls sounds, messages and loot filters. **How to Fish** provides a short introduction.
 
 Use **Back to …** to return to the matching section. Click a fish or material in the Fish Bag or Crafting Materials to withdraw it as items you can carry or trade; icons show your stored count. Bedrock forms use the same sections, with action buttons such as **Buy next rank** or **Claim quest reward**. Direct commands in this guide still open their feature immediately.
 
@@ -14,7 +14,7 @@ Use **Back to …** to return to the matching section. Click a fish or material 
 2. Cast into overworld water, Nether lava, or a clear gap beside an End island.
 3. Wait for a bite, then reel in. Lava and void fishing first display a message confirming that your line is ready.
 4. Open `/fish bag` to see your catches. They go into your personal **creel**, a virtual fish bag.
-5. Sell your haul for fishing coins, or salvage selected species for augment materials.
+5. Sell your haul for doubloons, or salvage selected species for augment materials.
 6. Check `/fish quests` for rewards you can claim, then explore `/fish upgrades` and `/fish workshop`.
 
 **You do not need an augment to unlock any of the three realms.** Ember Affinity improves lava fishing, and Rift Attunement improves void fishing. An ordinary rod can already catch the fish used to make them.

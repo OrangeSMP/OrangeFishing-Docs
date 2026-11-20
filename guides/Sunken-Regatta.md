@@ -16,7 +16,7 @@ The thresholds are cumulative. Species unlocked by an earlier stage stay availab
 
 Completing the final stage starts a **72-hour celebration**, while the summer event remains active, that adds **20 percentage points** to the chance of trying the summer fish pool. Its normal 25% chance becomes 45%; this is a chance to try that pool, not a guaranteed rare catch.
 
-Players who contributed at least **100 summer catches** can then claim **25,000 fishing coins ($50,000), 10,000 XP and 75 Sunlit Sea Glass** from the Regatta menu, once per annual season. Claim before the summer event ends. Progress, contributions, completed stages and claims survive restarts. A new summer season starts a new restoration.
+Players who contributed at least **100 summer catches** can then claim **25,000 doubloons ($50,000), 10,000 XP and 75 Sunlit Sea Glass** from the Regatta menu, once per annual season. Claim before the summer event ends. Progress, contributions, completed stages and claims survive restarts. A new summer season starts a new restoration.
 
 ---
 

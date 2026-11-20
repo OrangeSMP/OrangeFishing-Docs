@@ -31,9 +31,9 @@ A successful seasonal catch normally earns **one unit of that event’s material
 
 Once earned, copies remain yours. You can install, upgrade with already-owned copies, remove, and use them throughout the year, including their visual effects. An event ending does not take away your augments or saved materials.
 
-The thirteen seasonal blueprints, four each for Halloween, winter and spring and one for summer, unlock from **levels 45–70**, with crafting prices of **150,000–300,000 fishing coins per copy**. Their recipes retain **40 event materials and 12 Prismatic Dust**. They have three installed levels with rising installation fees, costing **10,000–15,000 coins** for the first rank. Removal still costs **500 coins** by default. Copies and existing installed ranks are preserved when defaults change, while their current level requirements still apply.
+The thirteen seasonal blueprints, four each for Halloween, winter and spring and one for summer, unlock from **levels 45–70**, with crafting prices of **150,000–300,000 doubloons per copy**. Their recipes retain **40 event materials and 12 Prismatic Dust**. They have three installed levels with rising installation fees, costing **10,000–15,000 doubloons** for the first rank. Removal still costs **500 doubloons** by default. Copies and existing installed ranks are preserved when defaults change, while their current level requirements still apply.
 
-| Seasonal augment | Required fishing level | Coins per copy |
+| Seasonal augment | Required fishing level | Doubloons per copy |
 | --- | ---: | ---: |
 | Hearthglow Line | 45 | 150,000,000 |
 | Petal Drift | 45 | 150,000,000 |

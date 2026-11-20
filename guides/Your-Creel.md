@@ -8,7 +8,7 @@ Your creel starts with space for **200 fish**; each **Deep Creel** upgrade adds 
 
 You have several uses for your haul:
 
-- **Sell it:** **Sell Fish** in Fish & Storage or the Fish Bag lists your fish alphabetically. **Click** a fish to sell all of that kind, or **right-click** it to choose how many. **Sell All Fish**, or `/fish sell`, opens a review screen before selling your entire creel for fishing coins. On Bedrock, choose a fish, then **Sell all** or **Choose how many to sell**.
+- **Sell it:** **Sell Fish** in Fish & Storage or the Fish Bag lists your fish alphabetically. **Click** a fish to sell all of that kind, or **right-click** it to choose how many. **Sell All Fish**, or `/fish sell`, opens a review screen before selling your entire creel for doubloons. On Bedrock, choose a fish, then **Sell all** or **Choose how many to sell**.
 - **Salvage it:** `/fish salvage` lets you turn all stored fish of a selected species, or all eligible fish in the creel, into crafting materials. Fish are listed alphabetically, like the Fish Bag, and the Fish Guide shows what each species salvages into. Review the confirmation before committing.
 
 Selling and salvaging consume the affected fish. A catch cannot be used for both. Its sale value is set when you catch it, so a later value upgrade helps future catches without increasing the price of fish already stored.

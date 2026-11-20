@@ -23,8 +23,8 @@ Start in-game with **`/fish`** or **`/fishing`**. Both commands open your fishin
 | [Community Guardians](guides/Community-Guardians.md) | Contribute catches, break bindings, and earn shared rewards. |
 | [Seasonal Effects](guides/Seasonal-Effects.md) | Spooky rings, snowflakes, spring petals and summer sparks. |
 | [Biome Disruption](guides/Biome-Disruption.md) | Create a temporary zone for water fish from other biomes. |
-| [Coin Exchange](guides/Coin-Exchange.md) | Convert fishing coins into Essentials server money, and make or redeem tradeable coin vouchers. |
-| [Trading Post](guides/Trading-Post.md) | Buy armor and tools with fishing coins, and furniture with crafting materials. |
+| [Doubloon Exchange](guides/Coin-Exchange.md) | Convert doubloons into Essentials server money, and make or redeem tradeable doubloon vouchers. |
+| [Trading Post](guides/Trading-Post.md) | Buy armor and tools with doubloons, and furniture with crafting materials. |
 | [Commands and Help](guides/Commands-and-Help.md) | Every player command and answers to common problems. |
 
 These guides describe OrangeFishing 1.0.0 with its default settings. The server can change prices, rewards and dates; the in-game menus always show the current values.

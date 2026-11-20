@@ -8,7 +8,7 @@ Use `/fish augments standard` to browse these nine blueprints. The ownership tog
 
 Augment tooltips show the **required fishing level** and **rod slots required**, and name any augments that can't share a rod with it, such as **Ember Affinity** and **Rift Attunement**. A slot requirement applies to the whole augment at every rank: Fish Caller and Branching Line each use **two slots**, even at rank three. Blueprints, rod installation, removal and stored copies appear from lowest to highest required level, including when you change category or ownership filter. Bedrock forms show both requirements in the list and the details. Newly withdrawn augment bundles also show both requirements.
 
-| Augment | Required fishing level | Coins per copy | Augment levels | What it does |
+| Augment | Required fishing level | Doubloons per copy | Augment levels | What it does |
 | --- | ---: | ---: | ---: | --- |
 | **Reinforced Tackle** | 8 | 15,000 | 3 | Gives a chance to prevent fishing durability loss. |
 | **Scholar’s Thread** | 12 | 30,000 | 3 | Increases fishing XP earned from catches. |

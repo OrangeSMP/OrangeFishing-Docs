@@ -20,13 +20,13 @@ All 16 options start enabled with the default server configuration. You can inde
 | Regatta | Shared restoration stages and completion announcements |
 | Fish Caller Pools | Fish Caller pool starts and expiry |
 | Biome disruption | Orb throws, active zones, misses and expiry |
-| Economy | Successful sales, upgrade purchases, coin exchanges and disruption purchases |
+| Economy | Successful sales, upgrade purchases, doubloon exchanges and disruption purchases |
 | Workshop | Rod management, augment crafting/installing/removing and salvage confirmations |
 | Chat Tournaments | Tournament announcements, reminders and results |
 | Reward claims | Daily quest, tournament and Regatta treasure claims |
 | Physical items | Successful withdrawal and deposit confirmations |
 
-**Bite Messages and Bite Sounds are separate, adjacent choices.** Turn off Bite Messages to keep the chime without bite chat, or turn off Bite Sounds to keep chat without the chime. Both apply to normal and extra lines. The prompt above your hotbar, bobber particles and movement remain visible. The other options change chat delivery. Your catches, XP, coins, items and Jobs credit continue normally. Muting rare-catch announcements hides them from your own chat; other players can still see announcements according to their settings.
+**Bite Messages and Bite Sounds are separate, adjacent choices.** Turn off Bite Messages to keep the chime without bite chat, or turn off Bite Sounds to keep chat without the chime. Both apply to normal and extra lines. The prompt above your hotbar, bobber particles and movement remain visible. The other options change chat delivery. Your catches, XP, doubloons, items and Jobs credit continue normally. Muting rare-catch announcements hides them from your own chat; other players can still see announcements according to their settings.
 
 Command help, requested profile information, permission errors, full-creel warnings, failed actions and refund or unresolved-payment notices remain visible. Messages sent by other plugins use those plugins' own settings. Server staff can customize the default choices and the menu, but an existing saved choice takes precedence over a changed server default. When upgrading from the combined Bite Alerts setting, your previous choice is initially kept for both messages and sounds; afterward you can change either independently.
 

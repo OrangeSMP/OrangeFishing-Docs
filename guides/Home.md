@@ -1,6 +1,6 @@
 # OrangeFishing Player Wiki
 
-From quiet rivers to the lava pools of the Nether and the open void beneath End islands, OrangeFishing gives you three realms to explore, a collection to build, and a rod you can make your own. Catch unusual species, turn your haul into coins or crafting materials, compete in daily tournaments, and return throughout the year for seasonal fishing adventures.
+From quiet rivers to the lava pools of the Nether and the open void beneath End islands, OrangeFishing gives you three realms to explore, a collection to build, and a rod you can make your own. Catch unusual species, turn your haul into doubloons or crafting materials, compete in daily tournaments, and return throughout the year for seasonal fishing adventures.
 
 **Start with `/fish` or `/fishing`.** Both commands open **Fishing Menu**, your fishing dashboard, and work interchangeably for every command in this guide. `/ofish` is another alias. OrangeFishing takes priority for `/fishing` when mcMMO is installed; use `/mcmmo:fishing` for mcMMO’s fishing skill page.
 
@@ -29,8 +29,8 @@ By default, configured menu labels, item names and message text use small capita
 | [Community Guardians](Community-Guardians.md) | Contribute catches, break bindings, and earn shared rewards. |
 | [Seasonal Effects](Seasonal-Effects.md) | Spooky rings, snowflakes, spring petals and summer sparks. |
 | [Biome Disruption](Biome-Disruption.md) | Create a temporary zone for water fish from other biomes. |
-| [Coin Exchange](Coin-Exchange.md) | Convert fishing coins into Essentials server money, and make or redeem tradeable coin vouchers. |
-| [Trading Post](Trading-Post.md) | Buy armor and tools with fishing coins, and furniture with crafting materials. |
+| [Doubloon Exchange](Coin-Exchange.md) | Convert doubloons into Essentials server money, and make or redeem tradeable doubloon vouchers. |
+| [Trading Post](Trading-Post.md) | Buy armor and tools with doubloons, and furniture with crafting materials. |
 | [Commands and Help](Commands-and-Help.md) | Every player command and answers to common problems. |
 
 New here? Start with [Getting Started](Getting-Started.md). Looking for a command? Open [Commands and Help](Commands-and-Help.md).

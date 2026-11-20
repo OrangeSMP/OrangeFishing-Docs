@@ -1,6 +1,6 @@
 # OrangeFishing — Player Guide
 
-From quiet rivers to the lava pools of the Nether and the open void beneath End islands, OrangeFishing gives you three realms to explore, a collection to build, and a rod you can make your own. Catch unusual species, turn your haul into coins or crafting materials, compete in daily tournaments, and return throughout the year for seasonal fishing adventures.
+From quiet rivers to the lava pools of the Nether and the open void beneath End islands, OrangeFishing gives you three realms to explore, a collection to build, and a rod you can make your own. Catch unusual species, turn your haul into doubloons or crafting materials, compete in daily tournaments, and return throughout the year for seasonal fishing adventures.
 
 **Start with `/fish` or `/fishing`.** Both commands open **Fishing Menu**, your fishing dashboard, and work interchangeably for every command in this guide. `/ofish` is another alias. OrangeFishing takes priority for `/fishing` when mcMMO is installed; use `/mcmmo:fishing` for mcMMO’s fishing skill page.
 
@@ -30,13 +30,13 @@ All 16 options start enabled with the default server configuration. You can inde
 | Regatta | Shared restoration stages and completion announcements |
 | Fish Caller Pools | Fish Caller pool starts and expiry |
 | Biome disruption | Orb throws, active zones, misses and expiry |
-| Economy | Successful sales, upgrade purchases, coin exchanges and disruption purchases |
+| Economy | Successful sales, upgrade purchases, doubloon exchanges and disruption purchases |
 | Workshop | Rod management, augment crafting/installing/removing and salvage confirmations |
 | Chat Tournaments | Tournament announcements, reminders and results |
 | Reward claims | Daily quest, tournament and Regatta treasure claims |
 | Physical items | Successful withdrawal and deposit confirmations |
 
-**Bite Messages and Bite Sounds are separate, adjacent choices.** Turn off Bite Messages to keep the chime without bite chat, or turn off Bite Sounds to keep chat without the chime. Both apply to normal and extra lines. The prompt above your hotbar, bobber particles and movement remain visible. The other options change chat delivery. Your catches, XP, coins, items and Jobs credit continue normally. Muting rare-catch announcements hides them from your own chat; other players can still see announcements according to their settings.
+**Bite Messages and Bite Sounds are separate, adjacent choices.** Turn off Bite Messages to keep the chime without bite chat, or turn off Bite Sounds to keep chat without the chime. Both apply to normal and extra lines. The prompt above your hotbar, bobber particles and movement remain visible. The other options change chat delivery. Your catches, XP, doubloons, items and Jobs credit continue normally. Muting rare-catch announcements hides them from your own chat; other players can still see announcements according to their settings.
 
 Command help, requested profile information, permission errors, full-creel warnings, failed actions and refund or unresolved-payment notices remain visible. Messages sent by other plugins use those plugins' own settings. Server staff can customize the default choices and the menu, but an existing saved choice takes precedence over a changed server default. When upgrading from the combined Bite Alerts setting, your previous choice is initially kept for both messages and sounds; afterward you can change either independently.
 
@@ -44,7 +44,7 @@ The **Loot Filters** button in Fishing Settings opens your saved choices for ord
 
 ## Finding your way around
 
-The main **Fishing Menu** has six choices. **Fish & Storage** holds your catches, loot, withdrawals, sales and coin exchange. **Rod & Upgrades** holds rod management, augments, account upgrades, salvage, crafting materials and biome disruption. **Fish Guide** shows where and when to find species. **Quests & Events** holds daily goals, tournaments, rankings and seasonal events. **Settings** controls sounds, messages and loot filters. **How to Fish** provides a short introduction.
+The main **Fishing Menu** has six choices. **Fish & Storage** holds your catches, loot, withdrawals, sales and doubloon exchange. **Rod & Upgrades** holds rod management, augments, account upgrades, salvage, crafting materials and biome disruption. **Fish Guide** shows where and when to find species. **Quests & Events** holds daily goals, tournaments, rankings and seasonal events. **Settings** controls sounds, messages and loot filters. **How to Fish** provides a short introduction.
 
 Use **Back to …** to return to the matching section. Click a fish or material in the Fish Bag or Crafting Materials to withdraw it as items you can carry or trade; icons show your stored count. Crafting Materials lists year-round materials first, then each event's material in calendar order (spring, summer, Halloween, winter). Bedrock forms use the same sections, with action buttons such as **Buy next rank** or **Claim quest reward**. Direct commands in this guide still open their feature immediately.
 
@@ -54,7 +54,7 @@ Use **Back to …** to return to the matching section. Click a fish or material 
 2. Cast into overworld water, Nether lava, or a clear gap beside an End island.
 3. Wait for a bite, then reel in. Lava and void fishing first display a message confirming that your line is ready.
 4. Open `/fish bag` to see your catches. They go into your personal **creel**, a virtual fish bag.
-5. Sell your haul for fishing coins, or salvage selected species for augment materials.
+5. Sell your haul for doubloons, or salvage selected species for augment materials.
 6. Check `/fish quests` for rewards you can claim, then explore `/fish upgrades` and `/fish workshop`.
 
 **You do not need an augment to unlock any of the three realms.** Ember Affinity improves lava fishing, and Rift Attunement improves void fishing. An ordinary rod can already catch the fish used to make them.
@@ -129,7 +129,7 @@ Your old catches, discoveries and records are retained. Lava and void species ke
 
 The guide also includes **18 bonus finds** from the installed pack: shells, coins, relics, an anchor, a pirate lamp, and a chest. Their cards say **Biome Find** and show your **Status** (**Discovered** or **Undiscovered**) and how many you have **Found**. The Found count started with the update that added it, so finds caught earlier are not included; a find still counts when your loot filters discard the item. A successful water cast in a habitat containing finds has a **4% chance** to roll one, alongside its fish. Some finds are rarer than others. Extra lines and bonus fish do not multiply this roll.
 
-Finds are decorative keepsakes for your collection and have no coin value. They go into **Fishing Loot** (`/fish loot`) and stay virtual until manually withdrawn; withdraw one to display it (item frames work), trade it or keep it. They have their own **Biome Finds** loot filter (Keep by default), separate from vanilla treasure, and show as **Biome Finds** in Fishing Loot. Choose Discard there if you don't want them; your choice applies even to finds with custom item data. They do not add fish discoveries, length/weight records, job catches, XP or tournament score. The decorative Copper/Silver/Gold Coin items do **not** automatically add fishing coins or server money. The pack's **Copper Coin** is used for the bronze-coin entries.
+Finds are decorative keepsakes for your collection and have no doubloon value. They go into **Fishing Loot** (`/fish loot`) and stay virtual until manually withdrawn; withdraw one to display it (item frames work), trade it or keep it. They have their own **Biome Finds** loot filter (Keep by default), separate from vanilla treasure, and show as **Biome Finds** in Fishing Loot. Choose Discard there if you don't want them; your choice applies even to finds with custom item data. They do not add fish discoveries, length/weight records, job catches, XP or tournament score. The decorative Copper/Silver/Gold Coin items do **not** automatically add doubloons or server money. The pack's **Copper Coin** is used for the bronze-coin entries.
 
 Biome disruption expands the **fish** pool; these extra finds still come from the hook's actual habitat. The vault must be enabled for water rewards. Your server can change the find chance, weights, artwork, habitat membership and menu wording.
 
@@ -143,7 +143,7 @@ Your creel starts with space for **200 fish**; each **Deep Creel** upgrade adds 
 
 You have several uses for your haul:
 
-- **Sell it:** **Sell Fish** in Fish & Storage or the Fish Bag lists your fish alphabetically. **Click** a fish to sell all of that kind, or **right-click** it to choose how many. **Sell All Fish**, or `/fish sell`, opens a review screen before selling your entire creel for fishing coins. On Bedrock, choose a fish, then **Sell all** or **Choose how many to sell**.
+- **Sell it:** **Sell Fish** in Fish & Storage or the Fish Bag lists your fish alphabetically. **Click** a fish to sell all of that kind, or **right-click** it to choose how many. **Sell All Fish**, or `/fish sell`, opens a review screen before selling your entire creel for doubloons. On Bedrock, choose a fish, then **Sell all** or **Choose how many to sell**.
 - **Salvage it:** `/fish salvage` lets you turn all stored fish of a selected species, or all eligible fish in the creel, into crafting materials. Fish are listed alphabetically, like the Fish Bag, and the Fish Guide shows what each species salvages into. Review the confirmation before committing.
 
 Selling and salvaging consume the affected fish. A catch cannot be used for both. Its sale value is set when you catch it, so a later value upgrade helps future catches without increasing the price of fish already stored.
@@ -240,21 +240,21 @@ XP is cumulative: reaching a level does not spend it. Default milestones are **7
 
 Hover over your player head in `/fish` to see your **XP progress bar**. It shows progress through your current level, along with the XP earned toward its requirement and a percentage. Reaching a new level starts that bar again; your total fishing XP stays saved. At the level cap, the bar is full and marked **Maximum level reached**.
 
-Use **`/fish info`** to display your fishing profile directly in chat: level and XP progress, fishing coins, lifetime catches, collection, your **longest** and **heaviest fish ever caught** (with their measurements and species), and total fishing XP. These records are kept even after you sell or salvage the fish. **`/fish info <player>`** shows another angler’s saved profile, including when they are offline. Use their last saved player name or UUID; unknown players do not receive an empty profile. Names are matched without case sensitivity, and a UUID can distinguish players when a saved name is ambiguous. `/fishing info` works the same way. The server can restrict looking up other players, and console users must provide a player name or UUID.
+Use **`/fish info`** to display your fishing profile directly in chat: level and XP progress, doubloons, lifetime catches, collection, your **longest** and **heaviest fish ever caught** (with their measurements and species), and total fishing XP. These records are kept even after you sell or salvage the fish. **`/fish info <player>`** shows another angler’s saved profile, including when they are offline. Use their last saved player name or UUID; unknown players do not receive an empty profile. Names are matched without case sensitivity, and a UUID can distinguish players when a saved name is ambiguous. `/fishing info` works the same way. The server can restrict looking up other players, and console users must provide a player name or UUID.
 
 The upgrades in `/fish upgrades` belong to your **player profile**, so they continue working when you change rods. Each purchase increases that upgrade by one level, and later levels cost more.
 
 | Upgrade | Benefit per level | Default maximum | First purchase |
 | --- | --- | --- | --- |
-| **Quickline** | 3% shorter base fishing waits | 5 levels; 15% reduction | 5,000 coins |
-| **Lucky Current** | Increased rarity luck | 5 levels | 8,000 coins |
-| **Fine Catch** | +10% raw value before diminishing returns | 5 levels; +50% value | 7,000 coins |
-| **Deep Creel** | Space for 50 additional fish | 8 levels; 600 total capacity | 4,000 coins |
-| **Expanded Tackle** | One additional augment slot on every rod you hold | 9 levels; 12 total slots | 10,000 coins |
+| **Quickline** | 3% shorter base fishing waits | 5 levels; 15% reduction | 5,000 doubloons |
+| **Lucky Current** | Increased rarity luck | 5 levels | 8,000 doubloons |
+| **Fine Catch** | +10% raw value before diminishing returns | 5 levels; +50% value | 7,000 doubloons |
+| **Deep Creel** | Space for 50 additional fish | 8 levels; 600 total capacity | 4,000 doubloons |
+| **Expanded Tackle** | One additional augment slot on every rod you hold | 9 levels; 12 total slots | 10,000 doubloons |
 
 If the server adopts a harder level curve, your displayed level can change while your accumulated fishing XP remains saved. The live menus always use the server’s current requirements.
 
-The menu displays your current level, benefit per level, and next purchase price. Click an upgrade to open **Buy Upgrade?**, which shows the next level, its cost and your coins; confirm to buy it. An upgrade at its maximum level shows **Maximum level reached** instead of a price, and Bedrock offers no buy button for it. Some upgrades stop at a fixed maximum (Fine Catch at 5, for example); a higher fishing level does not add more ranks. **Expanded Tackle** also shows your current and next rod capacity. Its default price grows by 1.75× per level. Buying an account upgrade does not occupy an augment slot on your rod.
+The menu displays your current level, benefit per level, and next purchase price. Click an upgrade to open **Buy Upgrade?**, which shows the next level, its cost and your doubloons; confirm to buy it. An upgrade at its maximum level shows **Maximum level reached** instead of a price, and Bedrock offers no buy button for it. Some upgrades stop at a fixed maximum (Fine Catch at 5, for example); a higher fishing level does not add more ranks. **Expanded Tackle** also shows your current and next rod capacity. Its default price grows by 1.75× per level. Buying an account upgrade does not occupy an augment slot on your rod.
 
 ## The rod workshop
 
@@ -262,17 +262,17 @@ Augments let you specialize a particular rod. Open `/fish workshop` to craft cop
 
 ### Gather materials
 
-Salvaging gives materials instead of coins. The main materials are **Tidal Fiber**, **Prismatic Dust**, **Ember Scale**, and **Void Silk**. Nether lava catches supply Ember Scales; End void catches supply Void Silk. Higher-rarity catches generally produce richer yields. The salvage preview shows the exact return for your selected fish.
+Salvaging gives materials instead of doubloons. The main materials are **Tidal Fiber**, **Prismatic Dust**, **Ember Scale**, and **Void Silk**. Nether lava catches supply Ember Scales; End void catches supply Void Silk. Higher-rarity catches generally produce richer yields. The salvage preview shows the exact return for your selected fish.
 
 Use `/fish materials` to view your supplies, including seasonal materials. You can build up these materials with a normal rod before crafting your first augment.
 
 ### Craft and install
 
-Open **Craft Augments** in Rod & Upgrades, or `/fish augments`, and choose **Year-round Augments**, **Seasonal Events** (pick an event to see its own blueprints) or **All Augments**. `/fish augments <category>` opens a list directly. Each lists its fishing-level requirement, recipe, crafting price, slot cost, and owned copies. Clicking a blueprint opens **Craft Augment?**, which shows the coin cost, the recipe and how many copies you already have stored; confirm to spend the coins and ingredients and create **one owned copy**.
+Open **Craft Augments** in Rod & Upgrades, or `/fish augments`, and choose **Year-round Augments**, **Seasonal Events** (pick an event to see its own blueprints) or **All Augments**. `/fish augments <category>` opens a list directly. Each lists its fishing-level requirement, recipe, crafting price, slot cost, and owned copies. Clicking a blueprint opens **Craft Augment?**, which shows the doubloon cost, the recipe and how many copies you already have stored; confirm to spend the doubloons and ingredients and create **one owned copy**.
 
 Hold the rod you want to improve in your **main hand**, then open `/fish rod` or choose **Manage Held Rod** in **Rod & Upgrades**. There is nothing to register: the rod is set up the first time you open this page. It opens showing the augments you own; its filter button still switches to **Missing** and **All**. **Click** an augment to open **Install Augment?**, which shows the installation fee and the next level's effects; confirm to install one copy and pay the fee. **Right-click** an augment to open **Withdraw a Copy?**, which takes one unused copy out as a tradeable item. On Bedrock, choose the augment, then **Install one copy** or **Withdraw a copy as an item** on its detail form. Installing another copy of the same augment upgrades it by one level, up to its maximum.
 
-The tooltip quotes the price of your **next rank**. With the defaults, each further rank costs three times the previous rank: Reinforced Tackle and Scholar’s Thread cost **1,000, 3,000, then 9,000 coins** to install. Fish Caller costs **15,000, 45,000, then 135,000 coins**. Seasonal augments cost **10,000–15,000 coins** for the first rank. Crafting each copy is a separate cost.
+The tooltip quotes the price of your **next rank**. With the defaults, each further rank costs three times the previous rank: Reinforced Tackle and Scholar’s Thread cost **1,000, 3,000, then 9,000 doubloons** to install. Fish Caller costs **15,000, 45,000, then 135,000 doubloons**. Seasonal augments cost **10,000–15,000 doubloons** for the first rank. Crafting each copy is a separate cost.
 
 Rods start with **three augment slots** by default. Buy **Expanded Tackle** in `/fish upgrades` to add one slot to every rod you hold, up to **12 total slots** with the defaults. Purchases persist across restarts and apply to any rod you use, including rods you get later. **Branching Line and Fish Caller each use two slots**; the other default augments use one. Upgrading an installed augment does not consume extra slots. **Ember Affinity and Rift Attunement cannot share a rod** with the default settings, so use separate specialized rods if you want both; an augment's description names any augments it can't share a rod with. Additional slots preserve these conflicts and the usual level and realm requirements.
 
@@ -290,7 +290,7 @@ Use `/fish augments standard` to browse these nine blueprints. The ownership tog
 
 Augment tooltips show the **required fishing level** and **rod slots required**, and name any augments that can't share a rod with it, such as **Ember Affinity** and **Rift Attunement**. A slot requirement applies to the whole augment at every rank: Fish Caller and Branching Line each use **two slots**, even at rank three. Blueprints, rod installation, removal and stored copies appear from lowest to highest required level, including when you change category or ownership filter. Bedrock forms show both requirements in the list and the details. Newly withdrawn augment bundles also show both requirements.
 
-| Augment | Required fishing level | Coins per copy | Augment levels | What it does |
+| Augment | Required fishing level | Doubloons per copy | Augment levels | What it does |
 | --- | ---: | ---: | ---: | --- |
 | **Reinforced Tackle** | 8 | 15,000 | 3 | Gives a chance to prevent fishing durability loss. |
 | **Scholar’s Thread** | 12 | 30,000 | 3 | Increases fishing XP earned from catches. |
@@ -326,10 +326,10 @@ Open `/fish quests` to follow these default daily goals:
 
 | Quest | Goal | Reward |
 | --- | --- | --- |
-| **First Light** | Catch 15 water fish | 200 coins and 200 fishing XP |
-| **Forge Runner** | Catch 10 lava fish | 300 coins and 300 fishing XP |
-| **Beyond the Edge** | Catch 10 void fish | 350 coins and 350 fishing XP |
-| **Steady Hands** | Catch 40 fish across any realms | 500 coins and 500 fishing XP |
+| **First Light** | Catch 15 water fish | 200 doubloons and 200 fishing XP |
+| **Forge Runner** | Catch 10 lava fish | 300 doubloons and 300 fishing XP |
+| **Beyond the Edge** | Catch 10 void fish | 350 doubloons and 350 fishing XP |
+| **Steady Hands** | Catch 40 fish across any realms | 500 doubloons and 500 fishing XP |
 
 Quest progress starts automatically; there is no need to accept a quest first. Progress comes from successful catches, so you can sell or salvage those fish afterward. A catch can advance both its realm quest and Steady Hands. **Click each completed quest to claim its reward before the daily reset.** After claiming, its Java menu icon glows and Bedrock form buttons show **Claimed today**. The menu refreshes on the same page; the glow clears when daily quests reset at midnight Eastern by default.
 
@@ -343,7 +343,7 @@ You also enter the daily tournament simply by fishing in a tournament world. By 
 
 Weight and length contests use one best specimen, not the combined weight or length of your haul. You can sell or salvage a scored fish without losing its score.
 
-Default prizes are **10,000 fishing coins ($20,000) for first**, **5,000 ($5,000) for second**, and **2,500 ($2,500) for third**. Each round runs from midnight to midnight Eastern. **Return to the tournament menu the following day and click to claim your prize.** That claim window lasts only through the following calendar day; prizes are not paid automatically. Exact ties use a consistent player-ID ordering rather than first-catch time.
+Default prizes are **10,000 doubloons ($20,000) for first**, **5,000 ($10,000) for second**, and **2,500 ($5,000) for third**. Each round runs from midnight to midnight Eastern. **Return to the tournament menu the following day and click to claim your prize.** That claim window lasts only through the following calendar day; prizes are not paid automatically. Exact ties use a consistent player-ID ordering rather than first-catch time.
 
 ## Chat tournaments
 
@@ -357,9 +357,9 @@ Every so often a **chat tournament** pops up in chat. It runs for a few minutes 
 | Shortest Fish | Reel in the single shortest fish. |
 | Lightest Fish | Land the single lightest fish. Weights show in kilograms to three decimals, so tiny fish don't all read as 0. |
 | Furthest Cast | Catch a fish as far away as you can. Distance is measured flat, from where you stood when you cast to your bobber, so walking away before reeling in doesn't help. After each catch, chat tells you how far that cast went and your best so far. |
-| First Catch | The announcement names one fish. The **first angler to catch it wins**, and the tournament ends right then. The fish is picked at random from level-1 water fish that bite in the plains at any time and in any weather (never legendary or seasonal). Reminders repeat its name for anyone who joins late. First Catch pays **one 2,500-coin prize** by default instead of three places. |
+| First Catch | The announcement names one fish. The **first angler to catch it wins**, and the tournament ends right then. The fish is picked at random from level-1 water fish that bite in the plains at any time and in any weather (never legendary or seasonal). Reminders repeat its name for anyone who joins late. First Catch pays **one 1,000-doubloon prize** by default instead of three places. |
 
-Chat shows when one starts, posts the current leaders as it nears the end (five minutes and one minute left by default), and announces the winners when it finishes. Prizes are paid **straight into your fishing coins** the moment it ends, so there is nothing to claim. With equal scores, whoever got there first wins. By default one starts at the top of every hour. The server decides how often they run, which kinds appear, and in what order. While one runs, a bar at the top of your screen shows its name, the time left and your place. You can mute the announcements and the bar under **Chat Tournaments** in Fishing Settings; you still take part and still get paid.
+Chat shows when one starts, posts the current leaders as it nears the end (five minutes and one minute left by default), and announces the winners when it finishes. Prizes are paid **straight into your doubloons** the moment it ends, so there is nothing to claim. With equal scores, whoever got there first wins. By default one starts at the top of every hour. The server decides how often they run, which kinds appear, and in what order. While one runs, a bar at the top of your screen shows its name, the time left and your place. You can mute the announcements and the bar under **Chat Tournaments** in Fishing Settings; you still take part and still get paid.
 
 **Equal gear in tournaments:** while a chat tournament is running, your rod augments and your Lure, Luck and Value upgrades do nothing when you fish in a tournament world (every world by default), so every angler competes on equal terms there. **Legendary fish don't bite at spawn** during a chat tournament either, so nobody wins on one lucky legendary; the other rarities share its chance. Bag size and augment slots still count, and everything works again as soon as the tournament ends. A chat message reminds you when you cast there.
 
@@ -396,9 +396,9 @@ A successful seasonal catch normally earns **one unit of that event’s material
 
 Once earned, copies remain yours. You can install, upgrade with already-owned copies, remove, and use them throughout the year, including their visual effects. An event ending does not take away your augments or saved materials.
 
-The thirteen seasonal blueprints, four each for Halloween, winter and spring and one for summer, unlock from **levels 45–70**, with crafting prices of **150,000–300,000 fishing coins per copy**. Their recipes retain **40 event materials and 12 Prismatic Dust**. They have three installed levels with rising installation fees, costing **10,000–15,000 coins** for the first rank. Removal still costs **500 coins** by default. Copies and existing installed ranks are preserved when defaults change, while their current level requirements still apply.
+The thirteen seasonal blueprints, four each for Halloween, winter and spring and one for summer, unlock from **levels 45–70**, with crafting prices of **150,000–300,000 doubloons per copy**. Their recipes retain **40 event materials and 12 Prismatic Dust**. They have three installed levels with rising installation fees, costing **10,000–15,000 doubloons** for the first rank. Removal still costs **500 doubloons** by default. Copies and existing installed ranks are preserved when defaults change, while their current level requirements still apply.
 
-| Seasonal augment | Required fishing level | Coins per copy |
+| Seasonal augment | Required fishing level | Doubloons per copy |
 | --- | ---: | ---: |
 | Hearthglow Line | 45 | 150,000 |
 | Petal Drift | 45 | 150,000 |
@@ -450,7 +450,7 @@ The thresholds are cumulative. Species unlocked by an earlier stage stay availab
 
 Completing the final stage starts a **72-hour celebration**, while the summer event remains active, that adds **20 percentage points** to the chance of trying the summer fish pool. Its normal 25% chance becomes 45%; this is a chance to try that pool, not a guaranteed rare catch.
 
-Players who contributed at least **100 summer catches** can then claim **25,000 fishing coins ($50,000), 10,000 XP and 75 Sunlit Sea Glass** from the Regatta menu, once per annual season. Claim before the summer event ends. Progress, contributions, completed stages and claims survive restarts. A new summer season starts a new restoration.
+Players who contributed at least **100 summer catches** can then claim **25,000 doubloons ($50,000), 10,000 XP and 75 Sunlit Sea Glass** from the Regatta menu, once per annual season. Claim before the summer event ends. Progress, contributions, completed stages and claims survive restarts. A new summer season starts a new restoration.
 
 ## Winter’s Wake community guardian
 
@@ -474,7 +474,7 @@ Usable seasonal augments retain their configured seasonal sounds year-round. The
 
 Want a chance at water fish from other biomes without moving to a new fishing spot? Open `/fish disrupt`, buy a charge, face the water, and throw it. The same controls are available through `/fish disrupt buy` and `/fish disrupt throw`.
 
-With the default settings, a charge costs **5,000 fishing coins**. Landing the orb in overworld water creates a **12-block-radius zone lasting two minutes**. Water catches inside the zone can draw from fish across different biomes, and nearby anglers can share the benefit.
+With the default settings, a charge costs **5,000 doubloons**. Landing the orb in overworld water creates a **12-block-radius zone lasting two minutes**. Water catches inside the zone can draw from fish across different biomes, and nearby anglers can share the benefit.
 
 You can also throw a purchased charge by **sneaking and right-clicking while holding a snowball in your main hand**. The snowball is a controller and is not consumed; the purchased virtual charge pays for the throw. A normal snowball alone does not supply a charge.
 
@@ -482,17 +482,17 @@ Disruption bypasses the **biome requirement only**. Fish still need the correct 
 
 A launched charge is spent even if you miss or the landing is rejected. Your zone disappears if you leave the server or change worlds, and zones do not survive a server restart or plugin reload. Choose your fishing position before throwing.
 
-## Fishing coins and server money
+## Doubloons and server money
 
-**Fishing coins** pay for fishing upgrades, augments, fees, and disruption charges. **Server money** is your separate Essentials balance. Open `/fish exchange` to convert fishing coins into server money.
+**Doubloons** pay for fishing upgrades, augments, fees, and disruption charges. **Server money** is your separate Essentials balance. Open `/fish exchange` to convert doubloons into server money.
 
-Fishing coins appear as **whole numbers** in chat, item descriptions, Java menus and Bedrock forms, rounded to the nearest coin with halves rounded up: `12.2234` shows as `12`, and `12.5` shows as `13`. Your balance, fish values, prices and rewards keep their exact amounts behind those displays. Fractions still accumulate, and sales, purchases and exchanges use the exact saved or requested amounts. Dollar quotes and payouts keep their normal decimal precision.
+Doubloons appear as **whole numbers** in chat, item descriptions, Java menus and Bedrock forms, rounded to the nearest doubloon with halves rounded up: `12.2234` shows as `12`, and `12.5` shows as `13`. Your balance, fish values, prices and rewards keep their exact amounts behind those displays. Fractions still accumulate, and sales, purchases and exchanges use the exact saved or requested amounts. Dollar quotes and payouts keep their normal decimal precision.
 
-Future catches use diminishing returns on their stored sale value: size, rarity and value bonuses still help, while stacked bonuses approach **75 fishing coins ($150) per fish**. Previously caught fish retain their saved dollar value. Existing balances and frozen rewards use the smaller denomination too: 1,000 old coins become 1 current coin, without losing fractional value.
+Future catches use diminishing returns on their stored sale value: size, rarity and value bonuses still help, while stacked bonuses approach **75 doubloons ($150) per fish**. Previously caught fish retain their saved dollar value. Existing balances and frozen rewards use the smaller denomination too: 1,000 old doubloons become 1 current doubloon, without losing fractional value.
 
-The default exchange rate is **1 fishing coin = $2.00**:
+The default exchange rate is **1 doubloon = $2.00**:
 
-| Fishing coins | Server money |
+| Doubloons | Server money |
 | --- | --- |
 | 1 | $2 |
 | 100 | $200 |
@@ -502,26 +502,26 @@ The default exchange rate is **1 fishing coin = $2.00**:
 
 Menus show server money with thousands separators and leave off `.00` for whole amounts, such as **$10,000** or **$12.50**.
 
-Choose a preset (**1, 100, 1,000, 10,000 or 100,000 coins**), click **Exchange All Coins** to convert your whole balance up to the per-exchange maximum, or use `/fish exchange 1` for a custom amount, then review and confirm the quote. The confirmation stays open after each exchange, so you can click **Confirm** again to exchange the same amount once more (one second apart by default). The default minimum is 1 coin, the maximum is 100,000 coins, and the cooldown is one second. Fractional input amounts are supported up to five decimal places and are exchanged exactly, even though the coin summary shows a whole number; the dollar payout rounds down to its configured money precision.
+Choose a preset (**1, 100, 1,000, 10,000 or 100,000 doubloons**), click **Exchange All Doubloons** to convert your whole balance up to the per-exchange maximum, or use `/fish exchange 1` for a custom amount, then review and confirm the quote. The confirmation stays open after each exchange, so you can click **Confirm** again to exchange the same amount once more (one second apart by default). The default minimum is 1 doubloon, the maximum is 100,000 doubloons, and the cooldown is one second. Fractional input amounts are supported up to five decimal places and are exchanged exactly, even though the doubloon summary shows a whole number; the dollar payout rounds down to its configured money precision.
 
-This exchange works from fishing coins **into** server money. It does not buy fishing coins with server money. To give fishing coins to another player, make a coin voucher with `/withdraw fishingcoins` instead. Seasonal materials are a separate resource and cannot be exchanged here.
+This exchange works from doubloons **into** server money. It does not buy doubloons with server money. To give doubloons to another player, make a doubloon voucher with `/withdraw fishingcoins` instead. Seasonal materials are a separate resource and cannot be exchanged here.
 
 If a payout remains pending, contact staff so they can check it. Repeated clicks will not produce additional payments, and further exchanges may stay unavailable until that payout is resolved.
 
-### Coin vouchers
+### Doubloon vouchers
 
-Coin vouchers are not made from the exchange menu. If your server runs a withdraw plugin that supports fishing coins, use its command to turn fishing coins into an item you can trade or give to anyone; the coins go back into a fishing balance when the voucher is redeemed.
+Doubloon vouchers are not made from the exchange menu. If your server runs a withdraw plugin that supports doubloons, use its command to turn doubloons into an item you can trade or give to anyone; the doubloons go back into a fishing balance when the voucher is redeemed.
 
-Fishing coin vouchers made earlier with the old exchange-menu button (gold nuggets named **Fishing Coins • ×1000**, showing their amount) still work. Hold one in your **main hand and right-click**, or deposit it like a fishing bundle through **Deposit Items** (`/fish deposit`), `/fish deposit all`, or by clicking it in your inventory while a storage menu is open. Each voucher pays out only once; a copied or already-redeemed voucher is worthless. You can keep vouchers in chests or display them in item frames, but like any item they can be lost or stolen. The server can restrict redemption of these older vouchers to the player who made them.
+Doubloon vouchers made earlier with the old exchange-menu button (gold nuggets named **Doubloons • ×1000**, showing their amount) still work. Hold one in your **main hand and right-click**, or deposit it like a fishing bundle through **Deposit Items** (`/fish deposit`), `/fish deposit all`, or by clicking it in your inventory while a storage menu is open. Each voucher pays out only once; a copied or already-redeemed voucher is worthless. You can keep vouchers in chests or display them in item frames, but like any item they can be lost or stolen. The server can restrict redemption of these older vouchers to the player who made them.
 
 ## The Trading Post
 
 Find the **Trading Post** NPC and click it to open the Trading Post. It has two shops:
 
-- **Armor & Tools** sells gear for **fishing coins**.
+- **Armor & Tools** sells gear for **doubloons**.
 - **Furniture** sells decorations for **crafting materials** from your material pouch (`/fish materials`), such as Tidal Fiber and Prismatic Dust.
 
-Each item shows its own description and price. Material prices list how many of each material you have stored. **Click an item to buy it.** You pay the whole price and receive the item at once. Purchases are never half-done: if you lack coins or materials, nothing is taken. Make room in your inventory first. If your inventory fills up before the item arrives, the price is returned. Bedrock players open an item's details and choose **Buy this item**.
+Each item shows its own description and price. Material prices list how many of each material you have stored. **Click an item to buy it.** You pay the whole price and receive the item at once. Purchases are never half-done: if you lack doubloons or materials, nothing is taken. Make room in your inventory first. If your inventory fills up before the item arrives, the price is returned. Bedrock players open an item's details and choose **Buy this item**.
 
 Server staff choose what each shop sells and what it costs, so items and prices may differ from the examples here.
 
@@ -563,7 +563,7 @@ Every command below also works with `/fishing` in place of `/fish`.
 | `/fish disrupt` | Disruption charge menu. |
 | `/fish disrupt buy` | Buy one charge. |
 | `/fish disrupt throw` | Throw one purchased charge. |
-| `/fish exchange` | Coin exchange menu, including Exchange All Coins. |
+| `/fish exchange` | Doubloon exchange menu, including Exchange All Doubloons. |
 | `/fish exchange <coins>` | Preview a custom conversion. |
 | `/fish help` | In-game command help. |
 
@@ -587,9 +587,9 @@ These commands require `orangefishing.admin`, which defaults to server operators
 | `/fish admin givematerial <player> <material_id> [amount]` | Give materials in the player's material pouch; amount defaults to one. |
 | `/fish admin removematerial <player> <material_id> [amount]` | Remove materials from the material pouch, stopping at zero; amount defaults to one. |
 | `/fish admin setmaterial <player> <material_id> <amount>` | Set how many of a material are in the pouch; `0` clears them. |
-| `/fish admin givecoins <player> <coins>` | Add fishing coins, accepting up to five decimal places. |
-| `/fish admin removecoins <player> <coins>` | Remove fishing coins, stopping at zero. |
-| `/fish admin setcoins <player> <coins>` | Set the fishing coin balance exactly; `0` empties it. |
+| `/fish admin givecoins <player> <coins>` | Add doubloons, accepting up to five decimal places. |
+| `/fish admin removecoins <player> <coins>` | Remove doubloons, stopping at zero. |
+| `/fish admin setcoins <player> <coins>` | Set the doubloon balance exactly; `0` empties it. |
 | `/fish admin giveaugmentitem <player> <augment_id> [amount]` | Give an online player augment copies as items straight into their inventory. If they can't take them (full inventory, wrong game mode), the copies stay in their pouch and you are told. |
 | `/fish admin givedisruptor <player> <charges>` | Give biome disruption charges. |
 | `/fish admin removedisruptor <player> <charges>` | Remove disruption charges, stopping at zero. |
@@ -605,7 +605,7 @@ For example, `/fish admin addxp Alex 5000`, `/fish admin setlevel Alex 25`, `/fi
 
 Unknown saved names are rejected. If more than one saved profile uses a name, use the correct player's UUID. Changes are saved immediately and recorded for staff review; deliberately running a grant again grants it again.
 
-An online player is told in chat when they receive coins, XP, levels, augment copies, materials or disruption charges, with the amount and their new balance. Several grants run from console in the same moment (for example by a voucher or crate) run one after another, so every one of them applies.
+An online player is told in chat when they receive doubloons, XP, levels, augment copies, materials or disruption charges, with the amount and their new balance. Several grants run from console in the same moment (for example by a voucher or crate) run one after another, so every one of them applies.
 
 ## When something is not working
 

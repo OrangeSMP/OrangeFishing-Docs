@@ -40,7 +40,7 @@ Every command below also works with `/fishing` in place of `/fish`.
 | `/fish disrupt` | Disruption charge menu. |
 | `/fish disrupt buy` | Buy one charge. |
 | `/fish disrupt throw` | Throw one purchased charge. |
-| `/fish exchange` | Coin exchange menu, including Exchange All Coins. |
+| `/fish exchange` | Doubloon exchange menu, including Exchange All Doubloons. |
 | `/fish exchange <coins>` | Preview a custom conversion. |
 | `/fish help` | In-game command help. |
 
@@ -64,9 +64,9 @@ These commands require `orangefishing.admin`, which defaults to server operators
 | `/fish admin givematerial <player> <material_id> [amount]` | Give materials in the player's material pouch; amount defaults to one. |
 | `/fish admin removematerial <player> <material_id> [amount]` | Remove materials from the material pouch, stopping at zero; amount defaults to one. |
 | `/fish admin setmaterial <player> <material_id> <amount>` | Set how many of a material are in the pouch; `0` clears them. |
-| `/fish admin givecoins <player> <coins>` | Add fishing coins, accepting up to five decimal places. |
-| `/fish admin removecoins <player> <coins>` | Remove fishing coins, stopping at zero. |
-| `/fish admin setcoins <player> <coins>` | Set the fishing coin balance exactly; `0` empties it. |
+| `/fish admin givecoins <player> <coins>` | Add doubloons, accepting up to five decimal places. |
+| `/fish admin removecoins <player> <coins>` | Remove doubloons, stopping at zero. |
+| `/fish admin setcoins <player> <coins>` | Set the doubloon balance exactly; `0` empties it. |
 | `/fish admin tournament start [type]` | Start a chat tournament now: `most-caught`, `longest-fish`, `heaviest-fish` or `furthest-cast` (random when left out). |
 | `/fish admin tournament end` / `cancel` | End the running chat tournament now and pay the winners, or cancel it without prizes. |
 | `/fish admin tournament status` | Show the running chat tournament, or how long until the next one. |
@@ -99,4 +99,4 @@ Unknown saved names are rejected. If more than one saved profile uses a name, us
 
 ---
 
-[Wiki home](Home.md) · [Previous: Coin Exchange](Coin-Exchange.md)
+[Wiki home](Home.md) · [Previous: Doubloon Exchange](Coin-Exchange.md)
